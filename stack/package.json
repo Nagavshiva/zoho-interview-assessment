@@ -1,0 +1,11 @@
+{
+  "name": "stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"node problem.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}

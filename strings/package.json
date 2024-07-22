@@ -1,0 +1,14 @@
+{
+  "name": "strings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+     "start":"nodemon problem.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
